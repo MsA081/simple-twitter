@@ -1,0 +1,53 @@
+{
+  "leftuser": [
+    {
+      "username": "Arshia",
+      "userid": "arshia81"
+    },
+    {
+      "username": "Pedram",
+      "userid": "pedram81"
+    }
+  ],
+  "righthashtag": [
+    "covid19",
+    "footballplayer",
+    "tik_tok"
+  ],
+  "homeuser": [
+    {
+      "data": {
+        "img": "/images/logooo.png",
+        "name": "MohammadAminifar",
+        "id": "MSA81",
+        "twite": "Hello to my twitter : ' I am M A '",
+        "number": 0
+      },
+      "id": 1
+    }
+  ],
+  "validation": [
+    {
+      "data": {
+        "username": "MA",
+        "password": "12345"
+      },
+      "id": 1
+    }
+  ],
+  "mainuser": [
+    {
+      "data": {
+        "username": "MohammadAminifar81@gmail.com",
+        "userid": "MA"
+      },
+      "id": 1
+    }
+  ],
+  "lurol": [
+    {
+      "data": "MA",
+      "id": 1
+    }
+  ]
+}
